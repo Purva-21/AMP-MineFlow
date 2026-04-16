@@ -578,7 +578,7 @@ Contributions, bug reports, and feature requests are welcome!
 
 <div align="center">
 
-**Made with ❤️ for the microbiology & bioinformatics community**
+**Built for the microbiology & bioinformatics community**
 
 [⭐ Star this repo](https://github.com/Purva-21/AMP-MineFlow) · [🐛 Report a bug](https://github.com/Purva-21/AMP-MineFlow/issues) · [💡 Request a feature](https://github.com/Purva-21/AMP-MineFlow/issues)
 
