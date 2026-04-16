@@ -1,0 +1,22 @@
+# Nextflow work directory
+work/
+.nextflow/
+.nextflow.log*
+.nextflow.pid
+.nextflow.status
+
+# Results (large outputs)
+results/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Large data files
+*.bam
+*.sam
+*.gz

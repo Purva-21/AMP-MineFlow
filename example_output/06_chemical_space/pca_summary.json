@@ -1,0 +1,27 @@
+{
+  "n_components": 5,
+  "explained_variance_ratio": [
+    0.3861,
+    0.1947,
+    0.1381,
+    0.0882,
+    0.0697
+  ],
+  "cumulative_variance": [
+    0.3861,
+    0.5808,
+    0.719,
+    0.8072,
+    0.8768
+  ],
+  "n_clusters": 6,
+  "cluster_sizes": {
+    "0": 18,
+    "1": 73,
+    "2": 43,
+    "3": 82,
+    "4": 48,
+    "5": 56
+  },
+  "silhouette_note": "See visualization for cluster separation"
+}

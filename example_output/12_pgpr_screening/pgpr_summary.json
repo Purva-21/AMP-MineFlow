@@ -1,0 +1,13 @@
+{
+  "traits_screened": 6,
+  "traits_detected": 6,
+  "pgpr_potential": "high",
+  "trait_details": {
+    "IAA_biosynthesis": "yes",
+    "phosphate_solubilization": "yes",
+    "siderophore_production": "yes",
+    "nitrogen_fixation": "yes",
+    "ACC_deaminase": "yes",
+    "biofilm_formation": "yes"
+  }
+}

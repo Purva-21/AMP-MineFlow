@@ -1,0 +1,7 @@
+contig	mean_coverage	std_coverage	anomaly_flag
+contig_1	84.9	6.1	PASS
+contig_2	85.2	5.5	PASS
+contig_3	81.2	14.6	PASS
+contig_4	69.2	12.8	PASS
+contig_5	72.5	6.3	PASS
+contig_6	59.7	4.3	PASS

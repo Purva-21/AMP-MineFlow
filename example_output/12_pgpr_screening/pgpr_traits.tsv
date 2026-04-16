@@ -1,0 +1,7 @@
+trait	description	importance	detected	marker_genes_found	markers_detected	markers_total	completeness_percent
+IAA_biosynthesis	Indole-3-acetic acid biosynthesis	phytohormone production	yes	ipdC;trpD;iaaM;iaaH	4	5	80.0
+phosphate_solubilization	Phosphate solubilization	nutrient availability	yes	pqqA;pqqB;pqqC;gcd	4	5	80.0
+siderophore_production	Siderophore biosynthesis	iron acquisition	yes	dhbA;dhbB;dhbC;dhbE	4	5	80.0
+nitrogen_fixation	Nitrogen fixation	nitrogen availability	yes	nifK	1	3	33.3
+ACC_deaminase	ACC deaminase activity	stress reduction	yes	acdS	1	1	100.0
+biofilm_formation	Biofilm formation	root colonization	yes	tasA;tapA;epsA;sinR	4	5	80.0

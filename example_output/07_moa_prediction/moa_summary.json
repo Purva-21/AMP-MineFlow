@@ -1,0 +1,9 @@
+{
+  "moa_distribution": {
+    "dna_binding": 135,
+    "membrane_disruption": 158,
+    "pore_formation": 26,
+    "immunomodulation": 1
+  },
+  "total_predicted": 320
+}

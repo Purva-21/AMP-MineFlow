@@ -1,0 +1,7 @@
+{
+  "total_eps_genes": 15,
+  "detected": 14,
+  "missing": 1,
+  "operon_completeness_percent": 93.3,
+  "pathway_verdict": "complete"
+}

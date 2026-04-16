@@ -1,0 +1,16 @@
+gene	function	category	detected	contig	start	end	strand	evalue	identity_percent
+epsA	transcription activator	regulatory	yes	contig_1	15389	16875	+	3.79e-11	50.9
+epsB	tyrosine kinase modulator	regulatory	yes	contig_1	17027	17693	+	8.63e-11	59.1
+epsC	polysaccharide export	transport	yes	contig_1	17875	19208	+	5.00e-11	76.3
+epsD	glycosyltransferase	biosynthesis	yes	contig_1	19324	20897	+	3.07e-11	47.9
+epsE	glycosyltransferase / clutch	biosynthesis	yes	contig_1	20909	22345	+	1.95e-11	82.1
+epsF	glycosyltransferase	biosynthesis	yes	contig_1	22418	23555	+	7.28e-11	62.3
+epsG	glycosyltransferase	biosynthesis	yes	contig_1	23637	25376	+	7.20e-11	91.2
+epsH	glycosyltransferase	biosynthesis	no	contig_1	25415	26717	+	N/A	0
+epsI	pyruvyltransferase	modification	yes	contig_1	26826	28360	+	7.32e-11	61.2
+epsJ	glycosyltransferase	biosynthesis	yes	contig_1	28414	29057	+	3.53e-12	79.9
+epsK	acetyltransferase	modification	yes	contig_1	29228	30982	+	6.57e-11	46.5
+epsL	flippase	transport	yes	contig_1	31014	32174	+	6.55e-11	70.4
+epsM	glycosyltransferase	biosynthesis	yes	contig_1	32303	33572	+	5.44e-11	81.8
+epsN	aminotransferase	modification	yes	contig_1	33633	34985	+	5.36e-11	94.9
+epsO	polymerase	polymerization	yes	contig_1	35080	36660	+	5.02e-12	90.3

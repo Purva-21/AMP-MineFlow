@@ -1,0 +1,12 @@
+{
+  "total_cazymes": 55,
+  "class_distribution": {
+    "GH": 12,
+    "GT": 6,
+    "PL": 6,
+    "CE": 9,
+    "AA": 6,
+    "CBM": 16
+  },
+  "unique_families": 27
+}

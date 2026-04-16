@@ -1,0 +1,321 @@
+orf_id	primary_moa	all_moa	moa_scores	confidence
+contig_5_s-_f0_orf80	dna_binding	dna_binding	"{""dna_binding"": 0.91}"	high
+contig_1_s-_f1_orf46	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.75}"	high
+contig_1_s+_f2_orf10	membrane_disruption	membrane_disruption;dna_binding	"{""membrane_disruption"": 0.92, ""dna_binding"": 0.75}"	high
+contig_6_s-_f0_orf83	membrane_disruption	membrane_disruption;dna_binding	"{""membrane_disruption"": 0.87, ""dna_binding"": 0.89}"	high
+contig_3_s+_f0_orf4	dna_binding	dna_binding	"{""dna_binding"": 0.95}"	high
+contig_1_s-_f1_orf72	dna_binding	dna_binding	"{""dna_binding"": 0.77}"	high
+contig_1_s-_f2_orf78	membrane_disruption	membrane_disruption;pore_formation;dna_binding	"{""membrane_disruption"": 0.89, ""pore_formation"": 0.75, ""dna_binding"": 0.81}"	high
+contig_4_s-_f1_orf68	membrane_disruption	membrane_disruption;pore_formation;dna_binding	"{""membrane_disruption"": 0.84, ""pore_formation"": 0.78, ""dna_binding"": 0.85}"	high
+contig_6_s+_f1_orf45	dna_binding	dna_binding	"{""dna_binding"": 0.95}"	high
+contig_4_s+_f0_orf44	membrane_disruption	membrane_disruption;dna_binding	"{""membrane_disruption"": 0.68, ""dna_binding"": 0.67}"	medium
+contig_5_s-_f1_orf66	dna_binding	dna_binding	"{""dna_binding"": 0.67}"	medium
+contig_4_s+_f1_orf20	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.67}"	medium
+contig_5_s-_f1_orf53	membrane_disruption	membrane_disruption;pore_formation;dna_binding	"{""membrane_disruption"": 0.73, ""pore_formation"": 0.9, ""dna_binding"": 0.76}"	high
+contig_1_s-_f1_orf176	dna_binding	dna_binding	"{""dna_binding"": 0.85}"	high
+contig_6_s-_f1_orf65	membrane_disruption	membrane_disruption;pore_formation;dna_binding	"{""membrane_disruption"": 0.68, ""pore_formation"": 0.74, ""dna_binding"": 0.77}"	high
+contig_1_s+_f1_orf7	dna_binding	dna_binding	"{""dna_binding"": 0.61}"	medium
+contig_1_s+_f0_orf626	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.48}"	medium
+contig_5_s+_f1_orf33	membrane_disruption	membrane_disruption;pore_formation;dna_binding	"{""membrane_disruption"": 0.75, ""pore_formation"": 0.83, ""dna_binding"": 0.82}"	high
+contig_4_s+_f2_orf58	dna_binding	dna_binding	"{""dna_binding"": 0.63}"	medium
+contig_3_s+_f2_orf416	pore_formation	pore_formation;dna_binding	"{""pore_formation"": 0.82, ""dna_binding"": 0.77}"	high
+contig_6_s-_f1_orf636	dna_binding	dna_binding	"{""dna_binding"": 0.94}"	high
+contig_1_s-_f2_orf298	dna_binding	dna_binding	"{""dna_binding"": 0.63}"	medium
+contig_4_s-_f0_orf610	dna_binding	dna_binding	"{""dna_binding"": 0.66}"	medium
+contig_5_s+_f0_orf94	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.77}"	high
+contig_1_s-_f0_orf588	dna_binding	dna_binding	"{""dna_binding"": 0.79}"	high
+contig_5_s-_f2_orf86	membrane_disruption	membrane_disruption;pore_formation;dna_binding	"{""membrane_disruption"": 0.69, ""pore_formation"": 0.92, ""dna_binding"": 0.93}"	high
+contig_5_s-_f0_orf30	dna_binding	dna_binding	"{""dna_binding"": 0.66}"	medium
+contig_6_s+_f0_orf161	dna_binding	dna_binding	"{""dna_binding"": 0.77}"	high
+contig_3_s+_f2_orf429	dna_binding	dna_binding	"{""dna_binding"": 0.88}"	high
+contig_3_s-_f0_orf41	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.4}"	medium
+contig_6_s+_f1_orf47	membrane_disruption	membrane_disruption;pore_formation;dna_binding	"{""membrane_disruption"": 0.88, ""pore_formation"": 0.73, ""dna_binding"": 0.63}"	high
+contig_6_s+_f1_orf69	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.91}"	high
+contig_5_s+_f1_orf393	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.31}"	medium
+contig_6_s-_f1_orf550	pore_formation	pore_formation;dna_binding	"{""pore_formation"": 0.88, ""dna_binding"": 0.86}"	high
+contig_5_s-_f1_orf364	dna_binding	dna_binding	"{""dna_binding"": 0.61}"	medium
+contig_6_s-_f2_orf29	dna_binding	dna_binding	"{""dna_binding"": 0.84}"	high
+contig_2_s+_f0_orf81	dna_binding	dna_binding	"{""dna_binding"": 0.73}"	high
+contig_6_s+_f0_orf63	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.44}"	medium
+contig_5_s+_f1_orf118	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.37}"	medium
+contig_4_s-_f2_orf122	dna_binding	dna_binding	"{""dna_binding"": 0.69}"	medium
+contig_1_s-_f2_orf43	dna_binding	dna_binding	"{""dna_binding"": 0.67}"	medium
+contig_1_s-_f1_orf368	dna_binding	dna_binding	"{""dna_binding"": 0.81}"	high
+contig_5_s+_f2_orf27	dna_binding	dna_binding	"{""dna_binding"": 0.71}"	high
+contig_4_s-_f0_orf40	membrane_disruption	membrane_disruption;pore_formation;dna_binding	"{""membrane_disruption"": 0.84, ""pore_formation"": 0.67, ""dna_binding"": 0.79}"	high
+contig_6_s-_f1_orf452	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.8}"	high
+contig_6_s+_f1_orf60	membrane_disruption	membrane_disruption;pore_formation;dna_binding	"{""membrane_disruption"": 0.77, ""pore_formation"": 0.64, ""dna_binding"": 0.71}"	high
+contig_4_s+_f2_orf61	membrane_disruption	membrane_disruption;pore_formation;dna_binding	"{""membrane_disruption"": 0.86, ""pore_formation"": 0.71, ""dna_binding"": 0.62}"	high
+contig_3_s+_f0_orf6	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.67}"	medium
+contig_1_s+_f2_orf28	membrane_disruption	membrane_disruption;pore_formation;dna_binding	"{""membrane_disruption"": 0.93, ""pore_formation"": 0.62, ""dna_binding"": 0.94}"	high
+contig_6_s+_f0_orf419	membrane_disruption	membrane_disruption;pore_formation;dna_binding	"{""membrane_disruption"": 0.81, ""pore_formation"": 0.67, ""dna_binding"": 0.89}"	high
+contig_2_s+_f2_orf2	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.41}"	medium
+contig_5_s+_f1_orf484	pore_formation	pore_formation;dna_binding	"{""pore_formation"": 0.85, ""dna_binding"": 0.72}"	high
+contig_3_s-_f1_orf580	membrane_disruption	membrane_disruption;pore_formation;dna_binding	"{""membrane_disruption"": 0.65, ""pore_formation"": 0.66, ""dna_binding"": 0.64}"	medium
+contig_5_s+_f1_orf74	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.61}"	medium
+contig_2_s+_f1_orf238	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.46}"	medium
+contig_3_s+_f1_orf145	membrane_disruption	membrane_disruption;dna_binding	"{""membrane_disruption"": 0.7, ""dna_binding"": 0.79}"	high
+contig_2_s-_f2_orf295	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.32}"	medium
+contig_5_s-_f0_orf584	dna_binding	dna_binding	"{""dna_binding"": 0.7}"	medium
+contig_6_s-_f1_orf70	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.33}"	medium
+contig_2_s+_f0_orf181	dna_binding	dna_binding	"{""dna_binding"": 0.66}"	medium
+contig_6_s+_f2_orf378	pore_formation	pore_formation;dna_binding	"{""pore_formation"": 0.63, ""dna_binding"": 0.93}"	high
+contig_1_s+_f1_orf152	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.44}"	medium
+contig_4_s-_f1_orf55	membrane_disruption	membrane_disruption;pore_formation;dna_binding	"{""membrane_disruption"": 0.78, ""pore_formation"": 0.93, ""dna_binding"": 0.72}"	high
+contig_3_s+_f0_orf596	dna_binding	dna_binding	"{""dna_binding"": 0.92}"	high
+contig_2_s+_f0_orf34	membrane_disruption	membrane_disruption;dna_binding	"{""membrane_disruption"": 0.86, ""dna_binding"": 0.8}"	high
+contig_1_s+_f1_orf79	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.48}"	medium
+contig_4_s+_f1_orf219	dna_binding	dna_binding	"{""dna_binding"": 0.75}"	high
+contig_3_s+_f1_orf22	dna_binding	dna_binding	"{""dna_binding"": 0.61}"	medium
+contig_5_s+_f2_orf311	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.4}"	medium
+contig_1_s-_f1_orf49	dna_binding	dna_binding	"{""dna_binding"": 0.81}"	high
+contig_5_s-_f0_orf54	membrane_disruption	membrane_disruption;dna_binding	"{""membrane_disruption"": 0.65, ""dna_binding"": 0.9}"	high
+contig_1_s-_f0_orf474	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.51}"	medium
+contig_2_s-_f2_orf623	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.35}"	medium
+contig_5_s-_f1_orf130	dna_binding	dna_binding	"{""dna_binding"": 0.83}"	high
+contig_2_s+_f0_orf275	dna_binding	dna_binding	"{""dna_binding"": 0.91}"	high
+contig_3_s-_f2_orf360	membrane_disruption	membrane_disruption;pore_formation;dna_binding	"{""membrane_disruption"": 0.85, ""pore_formation"": 0.79, ""dna_binding"": 0.71}"	high
+contig_5_s+_f1_orf19	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.31}"	medium
+contig_4_s-_f2_orf93	dna_binding	dna_binding	"{""dna_binding"": 0.73}"	high
+contig_4_s-_f0_orf71	dna_binding	dna_binding	"{""dna_binding"": 0.61}"	medium
+contig_4_s-_f0_orf442	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.5}"	medium
+contig_5_s-_f0_orf165	dna_binding	dna_binding	"{""dna_binding"": 0.85}"	high
+contig_4_s+_f1_orf283	dna_binding	dna_binding	"{""dna_binding"": 0.79}"	high
+contig_6_s-_f0_orf514	dna_binding	dna_binding;immunomodulation	"{""dna_binding"": 0.87, ""immunomodulation"": 0.94}"	high
+contig_4_s-_f1_orf236	dna_binding	dna_binding	"{""dna_binding"": 0.9}"	high
+contig_2_s-_f1_orf16	dna_binding	dna_binding	"{""dna_binding"": 0.77}"	high
+contig_5_s+_f2_orf420	dna_binding	dna_binding	"{""dna_binding"": 0.71}"	high
+contig_2_s+_f2_orf451	pore_formation	pore_formation	"{""pore_formation"": 0.81}"	high
+contig_6_s-_f0_orf144	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.48}"	medium
+contig_1_s+_f1_orf290	dna_binding	dna_binding	"{""dna_binding"": 0.91}"	high
+contig_6_s+_f0_orf413	membrane_disruption	membrane_disruption;dna_binding	"{""membrane_disruption"": 0.68, ""dna_binding"": 0.87}"	high
+contig_4_s-_f1_orf168	dna_binding	dna_binding	"{""dna_binding"": 0.73}"	high
+contig_4_s-_f0_orf434	dna_binding	dna_binding	"{""dna_binding"": 0.77}"	high
+contig_5_s-_f0_orf148	dna_binding	dna_binding	"{""dna_binding"": 0.94}"	high
+contig_5_s-_f0_orf520	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.7}"	medium
+contig_3_s-_f2_orf354	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.36}"	medium
+contig_2_s-_f0_orf154	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.54}"	medium
+contig_4_s+_f1_orf23	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.49}"	medium
+contig_4_s+_f0_orf254	dna_binding	dna_binding	"{""dna_binding"": 0.73}"	high
+contig_3_s-_f2_orf201	dna_binding	dna_binding	"{""dna_binding"": 0.7}"	medium
+contig_4_s+_f2_orf289	pore_formation	pore_formation	"{""pore_formation"": 0.74}"	high
+contig_5_s-_f0_orf398	pore_formation	pore_formation;dna_binding	"{""pore_formation"": 0.65, ""dna_binding"": 0.76}"	high
+contig_3_s-_f1_orf5	dna_binding	dna_binding	"{""dna_binding"": 0.69}"	medium
+contig_6_s-_f1_orf264	pore_formation	pore_formation;dna_binding	"{""pore_formation"": 0.87, ""dna_binding"": 0.9}"	high
+contig_4_s+_f0_orf31	dna_binding	dna_binding	"{""dna_binding"": 0.8}"	high
+contig_4_s-_f2_orf408	dna_binding	dna_binding	"{""dna_binding"": 0.83}"	high
+contig_4_s+_f1_orf26	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.64}"	medium
+contig_4_s+_f2_orf505	membrane_disruption	membrane_disruption;dna_binding	"{""membrane_disruption"": 0.69, ""dna_binding"": 0.71}"	high
+contig_3_s-_f2_orf271	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.43}"	medium
+contig_2_s-_f0_orf25	dna_binding	dna_binding	"{""dna_binding"": 0.66}"	medium
+contig_3_s-_f0_orf247	dna_binding	dna_binding	"{""dna_binding"": 0.77}"	high
+contig_5_s-_f2_orf73	dna_binding	dna_binding	"{""dna_binding"": 0.87}"	high
+contig_3_s+_f2_orf77	dna_binding	dna_binding	"{""dna_binding"": 0.68}"	medium
+contig_4_s-_f2_orf11	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.81}"	high
+contig_1_s-_f1_orf557	pore_formation	pore_formation;dna_binding	"{""pore_formation"": 0.77, ""dna_binding"": 0.82}"	high
+contig_4_s+_f1_orf59	dna_binding	dna_binding	"{""dna_binding"": 0.78}"	high
+contig_3_s-_f2_orf545	dna_binding	dna_binding	"{""dna_binding"": 0.84}"	high
+contig_4_s-_f0_orf109	dna_binding	dna_binding	"{""dna_binding"": 0.76}"	high
+contig_3_s-_f1_orf64	dna_binding	dna_binding	"{""dna_binding"": 0.87}"	high
+contig_2_s-_f0_orf515	pore_formation	pore_formation;dna_binding	"{""pore_formation"": 0.94, ""dna_binding"": 0.76}"	high
+contig_4_s+_f0_orf21	dna_binding	dna_binding	"{""dna_binding"": 0.78}"	high
+contig_6_s+_f0_orf440	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.35}"	medium
+contig_4_s-_f1_orf38	dna_binding	dna_binding	"{""dna_binding"": 0.74}"	high
+contig_2_s+_f0_orf315	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.38}"	medium
+contig_2_s-_f0_orf137	dna_binding	dna_binding	"{""dna_binding"": 0.73}"	high
+contig_3_s+_f2_orf441	dna_binding	dna_binding	"{""dna_binding"": 0.72}"	high
+contig_2_s-_f2_orf511	dna_binding	dna_binding	"{""dna_binding"": 0.85}"	high
+contig_4_s-_f2_orf17	membrane_disruption	membrane_disruption;dna_binding	"{""membrane_disruption"": 0.64, ""dna_binding"": 0.87}"	high
+contig_6_s-_f0_orf543	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.43}"	medium
+contig_5_s-_f0_orf57	dna_binding	dna_binding	"{""dna_binding"": 0.73}"	high
+contig_6_s-_f0_orf415	pore_formation	pore_formation	"{""pore_formation"": 0.68}"	medium
+contig_5_s-_f1_orf3	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.95}"	high
+contig_2_s-_f2_orf89	dna_binding	dna_binding	"{""dna_binding"": 0.94}"	high
+contig_3_s+_f0_orf224	dna_binding	dna_binding	"{""dna_binding"": 0.68}"	medium
+contig_4_s+_f0_orf50	pore_formation	pore_formation;dna_binding	"{""pore_formation"": 0.7, ""dna_binding"": 0.63}"	medium
+contig_5_s+_f0_orf272	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.51}"	medium
+contig_1_s-_f1_orf544	pore_formation	pore_formation	"{""pore_formation"": 0.77}"	high
+contig_4_s+_f2_orf99	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.49}"	medium
+contig_5_s+_f1_orf48	membrane_disruption	membrane_disruption;pore_formation;dna_binding	"{""membrane_disruption"": 0.85, ""pore_formation"": 0.82, ""dna_binding"": 0.74}"	high
+contig_5_s+_f2_orf523	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.52}"	medium
+contig_5_s-_f2_orf214	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.51}"	medium
+contig_6_s-_f2_orf24	dna_binding	dna_binding	"{""dna_binding"": 0.91}"	high
+contig_6_s-_f0_orf347	pore_formation	pore_formation;dna_binding	"{""pore_formation"": 0.79, ""dna_binding"": 0.69}"	high
+contig_1_s+_f0_orf430	dna_binding	dna_binding	"{""dna_binding"": 0.64}"	medium
+contig_3_s-_f1_orf595	dna_binding	dna_binding	"{""dna_binding"": 0.88}"	high
+contig_4_s-_f1_orf362	pore_formation	pore_formation	"{""pore_formation"": 0.67}"	medium
+contig_4_s-_f2_orf226	dna_binding	dna_binding	"{""dna_binding"": 0.85}"	high
+contig_4_s+_f2_orf14	dna_binding	dna_binding	"{""dna_binding"": 0.91}"	high
+contig_6_s-_f1_orf263	dna_binding	dna_binding	"{""dna_binding"": 0.68}"	medium
+contig_1_s+_f2_orf292	dna_binding	dna_binding	"{""dna_binding"": 0.87}"	high
+contig_2_s-_f1_orf491	dna_binding	dna_binding	"{""dna_binding"": 0.9}"	high
+contig_5_s+_f0_orf13	dna_binding	dna_binding	"{""dna_binding"": 0.72}"	high
+contig_5_s-_f2_orf607	dna_binding	dna_binding	"{""dna_binding"": 0.81}"	high
+contig_4_s+_f0_orf9	dna_binding	dna_binding	"{""dna_binding"": 0.74}"	high
+contig_3_s+_f0_orf445	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.54}"	medium
+contig_5_s-_f1_orf51	membrane_disruption	membrane_disruption;pore_formation	"{""membrane_disruption"": 0.85, ""pore_formation"": 0.91}"	high
+contig_3_s-_f2_orf32	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.61}"	medium
+contig_6_s+_f1_orf468	dna_binding	dna_binding	"{""dna_binding"": 0.87}"	high
+contig_1_s-_f1_orf101	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.52}"	medium
+contig_5_s+_f2_orf162	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.41}"	medium
+contig_4_s+_f0_orf560	membrane_disruption	membrane_disruption;pore_formation;dna_binding	"{""membrane_disruption"": 0.81, ""pore_formation"": 0.63, ""dna_binding"": 0.86}"	high
+contig_3_s+_f1_orf35	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.7}"	medium
+contig_2_s+_f2_orf624	dna_binding	dna_binding	"{""dna_binding"": 0.79}"	high
+contig_1_s+_f0_orf602	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.54}"	medium
+contig_6_s-_f2_orf357	pore_formation	pore_formation;dna_binding	"{""pore_formation"": 0.66, ""dna_binding"": 0.87}"	high
+contig_5_s+_f0_orf388	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.36}"	medium
+contig_3_s-_f2_orf211	dna_binding	dna_binding;immunomodulation	"{""dna_binding"": 0.93, ""immunomodulation"": 0.64}"	high
+contig_1_s-_f1_orf438	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.4}"	medium
+contig_4_s+_f2_orf426	dna_binding	dna_binding	"{""dna_binding"": 0.75}"	high
+contig_4_s-_f1_orf1	dna_binding	dna_binding	"{""dna_binding"": 0.86}"	high
+contig_4_s-_f2_orf622	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.51}"	medium
+contig_5_s-_f1_orf39	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.82}"	high
+contig_3_s-_f2_orf85	pore_formation	pore_formation;dna_binding	"{""pore_formation"": 0.86, ""dna_binding"": 0.65}"	high
+contig_4_s+_f1_orf92	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.43}"	medium
+contig_1_s-_f2_orf564	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.53}"	medium
+contig_3_s+_f0_orf260	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.37}"	medium
+contig_5_s+_f2_orf470	pore_formation	pore_formation;dna_binding	"{""pore_formation"": 0.8, ""dna_binding"": 0.62}"	high
+contig_3_s-_f1_orf558	dna_binding	dna_binding	"{""dna_binding"": 0.87}"	high
+contig_2_s+_f1_orf401	dna_binding	dna_binding	"{""dna_binding"": 0.79}"	high
+contig_6_s+_f1_orf62	dna_binding	dna_binding	"{""dna_binding"": 0.88}"	high
+contig_1_s-_f0_orf280	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.53}"	medium
+contig_4_s-_f2_orf121	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.86}"	high
+contig_6_s+_f0_orf605	dna_binding	dna_binding	"{""dna_binding"": 0.86}"	high
+contig_3_s+_f0_orf563	dna_binding	dna_binding	"{""dna_binding"": 0.81}"	high
+contig_2_s-_f0_orf635	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.53}"	medium
+contig_4_s+_f1_orf215	dna_binding	dna_binding	"{""dna_binding"": 0.91}"	high
+contig_3_s+_f1_orf616	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.83}"	high
+contig_3_s-_f1_orf82	dna_binding	dna_binding	"{""dna_binding"": 0.87}"	high
+contig_1_s-_f0_orf132	dna_binding	dna_binding	"{""dna_binding"": 0.67}"	medium
+contig_1_s-_f0_orf164	dna_binding	dna_binding	"{""dna_binding"": 0.64}"	medium
+contig_3_s+_f0_orf521	membrane_disruption	membrane_disruption;dna_binding	"{""membrane_disruption"": 0.77, ""dna_binding"": 0.79}"	high
+contig_2_s+_f0_orf140	dna_binding	dna_binding	"{""dna_binding"": 0.86}"	high
+contig_3_s+_f0_orf533	dna_binding	dna_binding	"{""dna_binding"": 0.63}"	medium
+contig_1_s-_f2_orf67	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.38}"	medium
+contig_2_s-_f0_orf329	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.41}"	medium
+contig_5_s+_f0_orf222	dna_binding	dna_binding	"{""dna_binding"": 0.72}"	high
+contig_6_s+_f2_orf307	membrane_disruption	membrane_disruption;dna_binding	"{""membrane_disruption"": 0.62, ""dna_binding"": 0.8}"	high
+contig_1_s+_f0_orf216	dna_binding	dna_binding	"{""dna_binding"": 0.94}"	high
+contig_3_s-_f1_orf572	dna_binding	dna_binding	"{""dna_binding"": 0.61}"	medium
+contig_1_s-_f0_orf127	dna_binding	dna_binding	"{""dna_binding"": 0.86}"	high
+contig_2_s-_f0_orf581	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.31}"	medium
+contig_6_s-_f2_orf570	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.54}"	medium
+contig_4_s-_f1_orf115	dna_binding	dna_binding	"{""dna_binding"": 0.82}"	high
+contig_3_s-_f0_orf124	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.38}"	medium
+contig_6_s-_f1_orf150	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.34}"	medium
+contig_5_s-_f1_orf551	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.35}"	medium
+contig_3_s-_f2_orf12	membrane_disruption	membrane_disruption;pore_formation	"{""membrane_disruption"": 0.64, ""pore_formation"": 0.73}"	high
+contig_1_s+_f0_orf396	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.36}"	medium
+contig_1_s+_f1_orf36	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.35}"	medium
+contig_4_s+_f1_orf123	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.55}"	medium
+contig_3_s-_f1_orf507	dna_binding	dna_binding	"{""dna_binding"": 0.66}"	medium
+contig_5_s+_f1_orf91	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.54}"	medium
+contig_5_s-_f2_orf52	membrane_disruption	membrane_disruption;dna_binding	"{""membrane_disruption"": 0.91, ""dna_binding"": 0.77}"	high
+contig_4_s-_f2_orf75	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.75}"	high
+contig_5_s-_f2_orf619	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.35}"	medium
+contig_1_s+_f0_orf235	dna_binding	dna_binding	"{""dna_binding"": 0.74}"	high
+contig_6_s-_f2_orf240	dna_binding	dna_binding	"{""dna_binding"": 0.71}"	high
+contig_6_s+_f1_orf182	dna_binding	dna_binding	"{""dna_binding"": 0.83}"	high
+contig_1_s+_f1_orf248	pore_formation	pore_formation;dna_binding	"{""pore_formation"": 0.71, ""dna_binding"": 0.79}"	high
+contig_1_s-_f0_orf339	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.55}"	medium
+contig_5_s+_f2_orf371	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.4}"	medium
+contig_4_s+_f0_orf303	dna_binding	dna_binding	"{""dna_binding"": 0.94}"	high
+contig_3_s-_f1_orf535	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.34}"	medium
+contig_4_s+_f1_orf84	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.43}"	medium
+contig_1_s-_f1_orf508	dna_binding	dna_binding	"{""dna_binding"": 0.68}"	medium
+contig_4_s-_f0_orf620	pore_formation	pore_formation	"{""pore_formation"": 0.78}"	high
+contig_1_s+_f2_orf367	dna_binding	dna_binding	"{""dna_binding"": 0.94}"	high
+contig_1_s-_f0_orf518	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.38}"	medium
+contig_1_s+_f0_orf579	dna_binding	dna_binding	"{""dna_binding"": 0.63}"	medium
+contig_6_s+_f1_orf526	dna_binding	dna_binding	"{""dna_binding"": 0.72}"	high
+contig_1_s-_f2_orf184	dna_binding	dna_binding	"{""dna_binding"": 0.7}"	medium
+contig_4_s-_f2_orf589	dna_binding	dna_binding	"{""dna_binding"": 0.76}"	high
+contig_6_s-_f0_orf208	dna_binding	dna_binding	"{""dna_binding"": 0.71}"	high
+contig_5_s+_f2_orf542	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.44}"	medium
+contig_1_s+_f0_orf42	membrane_disruption	membrane_disruption;dna_binding	"{""membrane_disruption"": 0.67, ""dna_binding"": 0.87}"	high
+contig_4_s-_f2_orf381	pore_formation	pore_formation;dna_binding	"{""pore_formation"": 0.68, ""dna_binding"": 0.94}"	high
+contig_3_s-_f2_orf436	dna_binding	dna_binding	"{""dna_binding"": 0.67}"	medium
+contig_2_s-_f1_orf163	dna_binding	dna_binding	"{""dna_binding"": 0.86}"	high
+contig_2_s-_f1_orf335	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.48}"	medium
+contig_4_s-_f1_orf409	dna_binding	dna_binding	"{""dna_binding"": 0.66}"	medium
+contig_2_s+_f0_orf546	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.36}"	medium
+contig_4_s+_f0_orf374	dna_binding	dna_binding	"{""dna_binding"": 0.88}"	high
+contig_1_s+_f2_orf96	dna_binding	dna_binding	"{""dna_binding"": 0.92}"	high
+contig_1_s+_f1_orf432	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.34}"	medium
+contig_4_s+_f0_orf517	dna_binding	dna_binding	"{""dna_binding"": 0.88}"	high
+contig_6_s-_f0_orf277	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.33}"	medium
+contig_4_s-_f0_orf245	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.44}"	medium
+contig_1_s-_f0_orf56	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.31}"	medium
+contig_4_s+_f0_orf363	dna_binding	dna_binding	"{""dna_binding"": 0.8}"	high
+contig_6_s+_f1_orf578	dna_binding	dna_binding	"{""dna_binding"": 0.72}"	high
+contig_5_s+_f1_orf259	pore_formation	pore_formation	"{""pore_formation"": 0.94}"	high
+contig_3_s+_f1_orf559	dna_binding	dna_binding	"{""dna_binding"": 0.91}"	high
+contig_6_s-_f1_orf108	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.51}"	medium
+contig_4_s-_f0_orf217	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.48}"	medium
+contig_6_s-_f2_orf600	dna_binding	dna_binding	"{""dna_binding"": 0.61}"	medium
+contig_1_s-_f1_orf160	dna_binding	dna_binding	"{""dna_binding"": 0.66}"	medium
+contig_3_s-_f0_orf139	dna_binding	dna_binding	"{""dna_binding"": 0.61}"	medium
+contig_6_s+_f1_orf136	dna_binding	dna_binding;immunomodulation	"{""dna_binding"": 0.79, ""immunomodulation"": 0.6}"	high
+contig_4_s+_f0_orf402	dna_binding	dna_binding	"{""dna_binding"": 0.63}"	medium
+contig_1_s+_f0_orf37	dna_binding	dna_binding	"{""dna_binding"": 0.85}"	high
+contig_3_s+_f1_orf153	dna_binding	dna_binding	"{""dna_binding"": 0.66}"	medium
+contig_1_s-_f0_orf428	dna_binding	dna_binding	"{""dna_binding"": 0.65}"	medium
+contig_3_s-_f0_orf556	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.33}"	medium
+contig_6_s-_f1_orf590	dna_binding	dna_binding	"{""dna_binding"": 0.92}"	high
+contig_4_s+_f0_orf15	pore_formation	pore_formation	"{""pore_formation"": 0.74}"	high
+contig_5_s+_f0_orf125	dna_binding	dna_binding	"{""dna_binding"": 0.65}"	medium
+contig_1_s-_f2_orf316	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.5}"	medium
+contig_1_s-_f1_orf103	dna_binding	dna_binding	"{""dna_binding"": 0.94}"	high
+contig_4_s+_f1_orf467	dna_binding	dna_binding	"{""dna_binding"": 0.87}"	high
+contig_4_s-_f2_orf538	dna_binding	dna_binding	"{""dna_binding"": 0.65}"	medium
+contig_1_s+_f2_orf571	pore_formation	pore_formation;dna_binding	"{""pore_formation"": 0.76, ""dna_binding"": 0.88}"	high
+contig_2_s-_f0_orf76	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.65}"	medium
+contig_1_s+_f2_orf509	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.52}"	medium
+contig_3_s-_f1_orf433	dna_binding	dna_binding	"{""dna_binding"": 0.62}"	medium
+contig_6_s-_f2_orf582	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.53}"	medium
+contig_1_s-_f1_orf318	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.45}"	medium
+contig_1_s-_f0_orf302	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.38}"	medium
+contig_1_s+_f1_orf597	pore_formation	pore_formation;dna_binding	"{""pore_formation"": 0.71, ""dna_binding"": 0.92}"	high
+contig_3_s-_f0_orf317	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.4}"	medium
+contig_2_s+_f2_orf540	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.34}"	medium
+contig_1_s-_f1_orf422	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.48}"	medium
+contig_6_s-_f0_orf403	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.45}"	medium
+contig_4_s+_f1_orf8	dna_binding	dna_binding	"{""dna_binding"": 0.9}"	high
+contig_5_s+_f0_orf243	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.46}"	medium
+contig_5_s+_f0_orf519	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.52}"	medium
+contig_2_s-_f2_orf185	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.44}"	medium
+contig_5_s-_f2_orf87	dna_binding	dna_binding	"{""dna_binding"": 0.63}"	medium
+contig_6_s+_f0_orf405	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.39}"	medium
+contig_2_s+_f1_orf469	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.5}"	medium
+contig_1_s-_f2_orf532	dna_binding	dna_binding	"{""dna_binding"": 0.62}"	medium
+contig_5_s+_f1_orf230	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.46}"	medium
+contig_6_s+_f1_orf424	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.47}"	medium
+contig_1_s-_f2_orf591	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.54}"	medium
+contig_2_s+_f2_orf234	pore_formation	pore_formation;dna_binding	"{""pore_formation"": 0.88, ""dna_binding"": 0.88}"	high
+contig_2_s+_f0_orf604	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.41}"	medium
+contig_2_s-_f1_orf625	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.48}"	medium
+contig_2_s-_f0_orf392	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.41}"	medium
+contig_1_s+_f2_orf567	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.3}"	medium
+contig_1_s-_f1_orf386	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.33}"	medium
+contig_3_s-_f1_orf418	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.45}"	medium
+contig_2_s-_f2_orf448	dna_binding	dna_binding	"{""dna_binding"": 0.78}"	high
+contig_3_s-_f2_orf473	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.54}"	medium
+contig_2_s-_f2_orf337	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.4}"	medium
+contig_6_s+_f0_orf592	dna_binding	dna_binding	"{""dna_binding"": 0.74}"	high
+contig_6_s-_f1_orf119	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.51}"	medium
+contig_4_s+_f2_orf18	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.42}"	medium
+contig_3_s-_f1_orf134	immunomodulation	immunomodulation	"{""immunomodulation"": 0.64}"	medium
+contig_2_s+_f0_orf614	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.8}"	high
+contig_1_s+_f1_orf611	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.83}"	high
+contig_4_s-_f1_orf481	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.65}"	medium
+contig_5_s-_f1_orf344	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.34}"	medium
+contig_1_s-_f2_orf482	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.49}"	medium
+contig_1_s+_f1_orf574	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.44}"	medium
+contig_4_s-_f2_orf575	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.39}"	medium
+contig_5_s+_f1_orf281	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.53}"	medium
+contig_2_s-_f1_orf618	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.43}"	medium
+contig_5_s-_f1_orf512	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.53}"	medium
+contig_6_s+_f0_orf282	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.38}"	medium
+contig_3_s-_f1_orf187	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.3}"	medium
+contig_1_s-_f2_orf500	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.34}"	medium
+contig_6_s+_f0_orf352	membrane_disruption	membrane_disruption	"{""membrane_disruption"": 0.76}"	high

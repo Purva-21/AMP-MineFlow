@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "AMP-MineFlow: Antimicrobial Peptide Mining & Multi-Functional Genome Analysis Pipeline"
+version: 1.0.0
+date-released: "2026-04-12"
+license: MIT
+repository-code: "https://github.com/Purva-21/AMP-MineFlow"
+authors:
+  - family-names: Gohil
+    given-names: Purva
+keywords:
+  - antimicrobial-peptides
+  - genome-mining
+  - nextflow
+  - bioinformatics
+  - drug-discovery
+  - cazymes
+  - pgpr
+  - bacillus

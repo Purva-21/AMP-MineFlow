@@ -1,0 +1,14 @@
+{
+  "total_classified": 320,
+  "family_distribution": {
+    "fengycin": 58,
+    "surfactin": 150,
+    "subtilosin": 5,
+    "iturin": 88,
+    "plantazolicin": 8,
+    "subtilin": 11
+  },
+  "high_confidence": 30,
+  "medium_confidence": 251,
+  "low_confidence": 39
+}

@@ -1,0 +1,12 @@
+{
+  "total_contigs": 6,
+  "total_length_bp": 201700,
+  "largest_contig": 85000,
+  "smallest_contig": 4200,
+  "N50": 52000,
+  "N90": 18000,
+  "L50": 2,
+  "GC_content_percent": 45.48,
+  "coverage_anomalies_detected": 0,
+  "assembly_quality": "HIGH"
+}

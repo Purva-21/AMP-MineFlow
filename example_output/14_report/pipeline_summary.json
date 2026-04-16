@@ -1,0 +1,140 @@
+{
+  "pipeline": "AMP-MineFlow v1.0.0",
+  "phases_completed": 14,
+  "assembly": {
+    "num_contigs": 36,
+    "total_length_bp": 3966013,
+    "n50_bp": 1013119,
+    "gc_percent": 45.99,
+    "mean_coverage": 294.22
+  },
+  "amp_discovery": {
+    "total_candidates": 108724,
+    "score_distribution": {
+      "6": 39053,
+      "7": 33828,
+      "5": 21336,
+      "8": 9767,
+      "4": 4740
+    },
+    "family_distribution": {
+      "subtilin": 40281,
+      "plantazolicin": 15381,
+      "iturin": 11068,
+      "fengycin": 9445,
+      "surfactin": 9133,
+      "bacilysin": 7524,
+      "mersacidin": 6234,
+      "bacillibactin": 6014,
+      "subtilosin": 2886,
+      "unclassified": 758
+    },
+    "amp_potential": "HIGH"
+  },
+  "physicochemical_summary": {
+    "net_charge_pH7": {
+      "mean": 2.665,
+      "std": 5.402
+    },
+    "hydrophobic_ratio": {
+      "mean": 0.45,
+      "std": 0.084
+    },
+    "amphipathic_moment": {
+      "mean": 0.371,
+      "std": 0.218
+    },
+    "molecular_weight_da": {
+      "mean": 8041.957,
+      "std": 4731.057
+    }
+  },
+  "chemical_space": {
+    "n_clusters": 6
+  },
+  "mechanism_of_action": {
+    "distribution": {
+      "membrane_disruption_carpet": 30671,
+      "cell_wall_synthesis_inhibition": 27174,
+      "membrane_disruption_barrel_stave": 16632,
+      "enzymatic_activity": 13643,
+      "membrane_disruption_toroidal_pore": 13037,
+      "dna_rna_synthesis_inhibition": 5419,
+      "immunomodulatory": 1705,
+      "protein_synthesis_inhibition": 443
+    },
+    "dominant": "membrane_disruption_carpet"
+  },
+  "pathogen_spectrum": {
+    "Enterococcus_faecium": {
+      "tested": 108724,
+      "active": 55938,
+      "rate": 0.514
+    },
+    "Staphylococcus_aureus": {
+      "tested": 108724,
+      "active": 55938,
+      "rate": 0.514
+    },
+    "Klebsiella_pneumoniae": {
+      "tested": 108724,
+      "active": 9840,
+      "rate": 0.091
+    },
+    "Acinetobacter_baumannii": {
+      "tested": 108724,
+      "active": 9840,
+      "rate": 0.091
+    },
+    "Pseudomonas_aeruginosa": {
+      "tested": 108724,
+      "active": 9840,
+      "rate": 0.091
+    },
+    "Enterobacter_cloacae": {
+      "tested": 108724,
+      "active": 34523,
+      "rate": 0.318
+    },
+    "Escherichia_coli": {
+      "tested": 108724,
+      "active": 49003,
+      "rate": 0.451
+    },
+    "Salmonella_typhimurium": {
+      "tested": 108724,
+      "active": 34523,
+      "rate": 0.318
+    },
+    "Bacillus_anthracis": {
+      "tested": 108724,
+      "active": 55938,
+      "rate": 0.514
+    },
+    "Listeria_monocytogenes": {
+      "tested": 108724,
+      "active": 84411,
+      "rate": 0.776
+    },
+    "Candida_albicans": {
+      "tested": 108724,
+      "active": 13794,
+      "rate": 0.127
+    },
+    "Cryptococcus_neoformans": {
+      "tested": 108724,
+      "active": 0,
+      "rate": 0.0
+    }
+  },
+  "resistance_risk": {
+    "low": 43312,
+    "moderate": 33036,
+    "very_low": 32376
+  },
+  "flags": {
+    "high_family_diversity": true,
+    "broad_spectrum": true,
+    "low_resistance_risk": true
+  }
+}
